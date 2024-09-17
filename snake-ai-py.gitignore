@@ -1,6 +1,9 @@
+# Ignorar a pasta do ambiente virtual
 .venv/
+
+# Ignorar outros arquivos indesejados
 __pycache__/
 *.pyc
 *.pyo
-.DS_Store
 .idea/
+.DS_Store
